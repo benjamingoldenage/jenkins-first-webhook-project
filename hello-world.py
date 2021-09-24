@@ -1,2 +1,2 @@
 print('Hello World all world')
-print("how are they???" "benjaminxxxxxxxxxxxxxxxxxxxxxx")
+print("how are they???", "Galip")
